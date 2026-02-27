@@ -1,0 +1,53 @@
+{
+  "version": 2,
+  "global": {},
+  "categories": [
+    {
+      "id": "absurd",
+      "label": "Absurdo",
+      "detonators": [
+        "plot twist del día:", "noticia imposible pero real:", "giro cósmico de agenda:", "actualización surrealista:", "esto no estaba en el guion:",
+        "acaba de pasar algo ridículamente raro:", "alerta de caos elegante:", "me atrapó una secuencia absurda:", "dato extraño de última hora:", "resumen de emergencia fantástica:",
+        "evento inesperado de dimensión paralela:", "situación oficialmente inverosímil:", "reporte desde el planeta del lío:", "nivel rareza activado:", "acabo de desbloquear un problema nuevo:",
+        "informo con total perplejidad:", "se abrió un portal de contratiempos:", "parte oficial del caos amable:", "acaba de ocurrir una escena surreal:", "mensaje urgente desde la comedia del destino:"
+      ],
+      "problems": [
+        "mi mochila decidió esconderse en el lugar donde siempre la dejo", "el ascensor se puso filosófico y tarda en cada piso", "la cafetera hizo huelga y armó reunión sindical en la cocina", "mi calendario se autocompletó con tareas de otra dimensión",
+        "se desató una discusión entre mis calcetines y tuve que mediar", "la puerta se cerró con dignidad dramática y me retrasó", "el transporte llegó en modo rompecabezas y cambió de ruta tres veces", "el timbre sonó solo y todos en casa investigamos cinco minutos",
+        "mi despertador sí sonó pero mi gato lo silenció con precisión", "el cargador se escondió justo cuando estaba saliendo", "la llave eligió el bolsillo equivocado en el peor momento", "la fila del súper avanzaba a velocidad de documental lento",
+        "una planta decidió inclinarse sobre el pasillo y montamos rescate", "se me cayó una torre de papeles perfectamente ordenados", "la app del mapa insistía en llevarme por calles imaginarias", "la tapa de la botella salió disparada y hubo operativo de limpieza",
+        "el paraguas se negó a abrirse hasta que negocié con él", "el microondas se quedó pensando y congeló el tiempo", "el pan saltó de la tostadora y desapareció bajo la mesa", "el semáforo del cruce entró en modo pausa existencial",
+        "mi auricular izquierdo tomó vacaciones sin avisar", "el bolso se enganchó en una silla y perdí una mini batalla", "la impresora pidió reinicio eterno justo antes de salir", "mi lista de pendientes apareció duplicada por arte de magia",
+        "el teclado escribió solo símbolos y tardé en volver al mundo", "la puerta del garaje decidió abrir con suspense", "la bicicleta amaneció con el sillín mirando al norte", "el reloj de la cocina adelantó diez minutos para asustarme",
+        "se activó una alarma de nada y tuve que desactivarla", "una caja vacía cayó con ruido de catástrofe y me distrajo", "el router parpadeó como árbol de navidad y me frenó", "mi chaqueta no aparecía y estaba puesta al revés",
+        "el cajón de los cubiertos se atascó en momento crítico", "el termo se volcó con precisión matemática sobre mis notas", "el espejo se empañó y tardé en encontrar mis gafas", "la cremallera de la mochila hizo drama técnico",
+        "una paloma se plantó en mi ventana y no negociaba salida", "el ventilador movió papeles importantes como confeti", "el móvil activó modo no molestar por su cuenta", "una bolsa se rompió justo al salir y tuve que rehacer todo",
+        "el mando de la tele apareció dentro de la nevera", "la alarma del horno pitó sin motivo y me descolocó", "el ascensor llegó lleno de vecinos con plantas gigantes", "mi botella decidió fugarse rodando por el pasillo",
+        "el casco de la bici quedó atrapado en el perchero", "mi agenda se cerró y perdí una nota clave", "la puerta automática me ignoró dos veces", "la funda del portátil se enganchó y frenó la salida",
+        "se cayó una pila de tuppers y hubo reconstrucción", "la cinta adhesiva se pegó a todo menos a la caja", "un globo perdido apareció en el pasillo y causó confusión", "la persiana decidió quedarse a medio camino",
+        "el detector de humo pitó porque brindé pan con demasiado entusiasmo", "mi taza favorita se escondió detrás de otras siete", "el repartidor tocó justo cuando cerraba todo", "la app de música eligió karaoke y perdí concentración",
+        "el cable de los auriculares hizo nudo imposible", "una silla giratoria bloqueó la salida con elegancia", "el abrigo cayó detrás del sofá y hubo expedición", "el cronómetro se pausó sin permiso en plena rutina"
+      ],
+      "details": [],
+      "actions": [],
+      "closures": [
+        "Prometo volver a la normalidad en breve.", "Gracias por acompañar este episodio extraño.", "En cuanto se ordene el caos, sigo contigo.", "Te juro que hoy el universo vino creativo.", "Gracias por la paciencia intergaláctica.",
+        "En minutos recupero el control.", "No era mi plan, pero aquí estamos.", "Gracias por no juzgar esta secuencia.", "Apenas termine este capítulo, reaparezco.", "Te actualizo cuando aterrice de nuevo.",
+        "Prometo compensar esta trama inesperada.", "Gracias por entender mi día de comedia.", "Sigo peleando con el caos amable.", "En nada cierro este festival de rarezas.", "Te agradezco la flexibilidad cósmica.",
+        "No me rindo, ya casi lo resuelvo.", "Gracias por la buena onda.", "Cuando esto acabe, te cuento la versión extendida.", "Estoy a un paso de recuperar la rutina.", "Te aviso ni bien vuelva al planeta Tierra."
+      ],
+      "templatesShort": [],
+      "templatesMedium": [],
+      "templatesLong": [],
+      "absurdProblems": [],
+      "absurdDetails": [],
+      "absurdClosures": [],
+      "recipientStyle": {}
+    }
+  ],
+  "modeCategoryIds": {
+    "ABSURDO": ["absurd"]
+  },
+  "globalTemplates": {},
+  "synonymBuckets": {}
+}

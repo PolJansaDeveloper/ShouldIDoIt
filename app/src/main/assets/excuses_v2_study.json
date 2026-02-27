@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "global": {},
+  "categories": [
+    {
+      "id": "study",
+      "label": "Estudio",
+      "detonators": [
+        "te aviso por aquí:", "estoy ajustando un tema de estudio:", "me saltó un cambio académico:", "se movió una entrega y:", "tengo un imprevisto con clases:",
+        "se me cruzó una obligación del curso:", "acaba de salir una actualización:", "tuve que priorizar un pendiente académico:", "se complicó la agenda de estudio:", "me coincidieron tareas clave:",
+        "estoy cerrando algo de la uni:", "me entró una revisión inesperada:", "tengo que resolver esto del curso:", "se alargó una sesión de trabajo:", "me quedé ajustando una práctica:",
+        "se me encimó una evaluación:", "necesito terminar una entrega:", "surgió una tutoría fuera de plan:", "me retuvieron con un proyecto:", "voy justo porque se extendió todo:"
+      ],
+      "problems": [
+        "se adelantó una entrega y tuve que rehacer parte del trabajo", "me extendí corrigiendo una práctica que tenía errores", "se movió un examen y estoy ajustando todo", "me convocaron a una tutoría obligatoria de última hora",
+        "se acumuló carga académica en esta franja", "estoy terminando un informe que vence hoy", "tuve que repetir ejercicios porque no pasaban validación", "un compañero faltó y tuve que cubrir una parte del proyecto",
+        "la plataforma de clase falló y perdí tiempo recuperando avances", "se alargó una revisión con el profesor", "me quedaron pendientes clave para poder entregar", "estoy cerrando referencias y formato para no fallar en la entrega",
+        "hubo cambios en la rúbrica y tuve que adaptar el trabajo", "se juntaron dos materias con fecha límite", "me quedé sin margen entre clases y tareas", "tuve que rehacer una sección por feedback de última hora",
+        "estoy con una práctica larga que no puedo cortar a medias", "se atrasó una actividad en equipo y me impactó", "tengo una sesión obligatoria que se extendió", "estoy terminando una presentación evaluable",
+        "se me solaparon horarios académicos y personales", "surgió una corrección urgente para no perder puntos", "me pidieron ajustar una parte antes del cierre", "todavía estoy validando resultados para enviar",
+        "tuve que resolver dudas en clase y se alargó", "la carga de lectura se disparó hoy", "estoy cerrando la entrega en formato final", "me quedé bloqueado con un ejercicio y ya lo estoy resolviendo",
+        "apareció un requisito nuevo en la plataforma", "necesito completar una parte crítica del proyecto", "estoy rematando una práctica de laboratorio", "me agarró una revisión sorpresa",
+        "tuve que reorganizar todo por cambio de calendario", "me faltaba una evidencia y la estoy completando", "se estiró una actividad grupal", "todavía no cierro el material para enviar"
+      ],
+      "details": [],
+      "actions": [],
+      "closures": [
+        "Gracias por entender.", "En cuanto termine, te confirmo.", "Perdón por mover el plan.", "Te escribo apenas cierre esto.", "Aprecio la paciencia.",
+        "No quiero dejar esto a medias.", "Lo compenso en cuanto entregue.", "Gracias por la flexibilidad.", "Te actualizo en un rato.", "Quedo pendiente para reprogramar.",
+        "Gracias por adaptarte.", "Sigo con esto y te aviso.", "Te debo una por el cambio.", "Apenas lo cierre, retomamos.", "No me olvido del plan.",
+        "Gracias por bancar el cierre académico.", "Te aviso al salir de esta.", "Lo retomo contigo en cuanto quede libre.", "Gracias por tu apoyo.", "Seguimos apenas termine."
+      ],
+      "templatesShort": [],
+      "templatesMedium": [],
+      "templatesLong": [],
+      "absurdProblems": [],
+      "absurdDetails": [],
+      "absurdClosures": [],
+      "recipientStyle": {}
+    }
+  ],
+  "modeCategoryIds": {},
+  "globalTemplates": {},
+  "synonymBuckets": {}
+}

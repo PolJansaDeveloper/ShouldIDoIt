@@ -1,0 +1,57 @@
+{
+  "version": 2,
+  "global": {
+    "greetings": [
+      "Hola",
+      "Buenas",
+      "Hey",
+      "Perdona",
+      "Te escribo rápido",
+      "Un momento",
+      "Te aviso",
+      "Paso a comentar",
+      "Necesito contarte algo",
+      "Te cuento"
+    ],
+    "apologies": [],
+    "timeframes": [],
+    "constraints": [],
+    "followups": [],
+    "softeners": [],
+    "connectors": [],
+    "emojiSets": ["", "🙂", "🙏", "😅", "✨", "🙌", "🤝", "📌", "🫶", "😬"],
+    "detonators": [
+      "te aviso:",
+      "me acabo de encontrar con esto:",
+      "ha surgido un imprevisto:",
+      "voy directo al punto:",
+      "acaba de pasar esto:"
+    ],
+    "problems": [],
+    "details": [],
+    "actions": [],
+    "closures": []
+  },
+  "categories": [],
+  "modeCategoryIds": {
+    "ABSURDO": ["absurd"],
+    "SERIO": []
+  },
+  "globalTemplates": {
+    "templatesShort": [
+      "{trigger} {problem}. {close} {emoji}",
+      "{greet}, {trigger} {problem}. {close} {emoji}"
+    ],
+    "templatesMedium": [
+      "{greet}, {trigger} {problem}. {close} {emoji}",
+      "{greet}: {trigger} {problem}. {close} {emoji}",
+      "{trigger} {problem}. {close} {emoji}",
+      "{greet}, {problem}. {close} {emoji}"
+    ],
+    "templatesLong": [
+      "{greet}, {trigger} {problem}. {close} {emoji}",
+      "{greet}: {trigger} {problem}. {close} {emoji}"
+    ]
+  },
+  "synonymBuckets": {}
+}

@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "global": {},
+  "categories": [
+    {
+      "id": "family",
+      "label": "Familia",
+      "detonators": [
+        "te aviso con cariño:", "se presentó un tema familiar:", "tuve que frenar por casa:", "me salió una gestión familiar:", "acaba de surgir algo en familia:",
+        "se me cruzó una prioridad familiar:", "estoy atendiendo un tema de los míos:", "hubo un cambio en casa:", "me retuvieron con un asunto familiar:", "estoy resolviendo algo de familia:",
+        "tuve que hacerme cargo de un pendiente en casa:", "se desordenó todo por una llamada familiar:", "me tocó cubrir una necesidad en casa:", "estoy con una urgencia doméstica:", "hubo un imprevisto familiar ahora mismo:",
+        "se movió el plan por tema de familia:", "tuve que reorganizar por casa:", "me quedé corto de tiempo por un asunto familiar:", "estoy cerrando un pendiente en casa:", "necesito ajustar porque surgió esto en familia:"
+      ],
+      "problems": [
+        "tuve que acompañar a un familiar en una gestión importante", "me pidieron ayuda en casa y no podía dejarlo para después", "se desacomodó la rutina familiar de golpe", "tuve que encargarme de un trámite doméstico urgente",
+        "se alargó una gestión familiar que parecía corta", "me tocó hacer un relevo en casa sin margen", "hubo un cambio inesperado con horarios familiares", "estoy resolviendo un pendiente de hogar que no podía esperar",
+        "se cruzó una cita familiar inaplazable", "me retrasé organizando un tema de casa", "tuve que acompañar en una situación personal importante", "se juntaron varios recados familiares al mismo tiempo",
+        "apareció una necesidad urgente en casa", "me quedé cerrando un asunto que surgió de última hora", "tuve que reorganizar por completo la tarde familiar", "me retuvo una coordinación doméstica que se complicó",
+        "surgió un imprevisto con logística familiar", "estoy atendiendo un asunto de casa que requiere presencia", "se cayó una ayuda prevista y me tocó cubrirla", "tuve que resolver documentación familiar hoy",
+        "se extendió una visita necesaria y me dejó sin margen", "hubo un ajuste de último minuto en casa", "me retrasó un trámite con horarios limitados", "estoy cerrando una gestión familiar sensible",
+        "me tocó cubrir una emergencia doméstica leve", "apareció un problema de organización en casa", "estoy esperando cerrar un asunto familiar para moverme", "se me desfasó todo por una llamada importante",
+        "tuve que priorizar un pendiente de los míos", "se complicó una coordinación familiar y sigo en ello", "estoy resolviendo un tema de convivencia en casa", "se movió todo por un recado que no podía aplazar",
+        "me quedé sin margen por un cambio de rutina familiar", "hubo una gestión inesperada de última hora", "me tocó asistir en casa antes de salir", "todavía estoy cerrando este pendiente familiar"
+      ],
+      "details": [],
+      "actions": [],
+      "closures": [
+        "Gracias por entender.", "Te agradezco la paciencia.", "Perdón por moverlo así.", "En cuanto lo cierre, te aviso.", "Aprecio mucho tu comprensión.",
+        "Gracias por adaptarte.", "No quiero dejarte esperando de más.", "Te escribo en cuanto quede libre.", "Gracias por estar.", "Lo retomamos apenas pueda.",
+        "Te mando actualización en un rato.", "Perdón por el cambio de plan.", "Te debo una por la flexibilidad.", "Gracias por bancarlo.", "Quedo atento para reorganizar.",
+        "Sigo con esto y te confirmo.", "Apenas me desocupe, retomamos.", "Gracias por hacerlo fácil.", "Te aviso cuando ya esté resuelto.", "No me olvido de ti."
+      ],
+      "templatesShort": [],
+      "templatesMedium": [],
+      "templatesLong": [],
+      "absurdProblems": [],
+      "absurdDetails": [],
+      "absurdClosures": [],
+      "recipientStyle": {}
+    }
+  ],
+  "modeCategoryIds": {},
+  "globalTemplates": {},
+  "synonymBuckets": {}
+}

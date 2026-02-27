@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "global": {},
+  "categories": [
+    {
+      "id": "social",
+      "label": "Social",
+      "detonators": [
+        "te cuento rápido:", "se me complicó de golpe:", "justo ahora pasó algo:", "te aviso antes de que te preocupes:", "me salió un imprevisto:",
+        "no me gusta cancelar, pero:", "acabo de ver que:", "se cruzó una situación inesperada:", "voy tarde porque:", "te hablo con sinceridad:",
+        "me pilló sin margen:", "justo cambió todo:", "me ha descolocado esto:", "te escribo para avisarte:", "se torció el plan:",
+        "me surgió un tema familiar:", "me llamó alguien y:", "estoy resolviendo algo urgente:", "se me encimaron cosas:", "necesito mover el plan porque:"
+      ],
+      "problems": [
+        "se me juntaron varios compromisos y no llego a la hora", "tuve que acompañar a un familiar y me descuadré", "me quedé atrapado en un traslado más largo de lo previsto", "me cambiaron un recado importante de última hora",
+        "estoy cerrando un tema personal que no podía aplazar", "me llamaron para resolver algo urgente en casa", "se me desordenó completamente la tarde", "tuve una demora inesperada saliendo",
+        "me surgió una gestión obligatoria y me rompió los tiempos", "estoy con un imprevisto que me tiene retenido", "se alargó un trámite justo antes de salir", "me tocó cubrir una necesidad familiar inesperada",
+        "estoy esperando a que termine una situación que no puedo dejar sola", "me quedé sin margen por un cambio de última hora", "me entró una llamada importante y se alargó", "se me superpusieron dos planes al mismo tiempo",
+        "salí tarde por una gestión personal inaplazable", "apareció un pendiente que tenía que resolver hoy", "me estoy reorganizando porque todo se movió", "se cayó el plan de transporte que tenía",
+        "me retrasé ayudando con una urgencia doméstica", "tuve que resolver un asunto administrativo inesperado", "estoy en medio de una gestión que no termina", "se me cruzó un compromiso que no pude rechazar",
+        "me surgió un contratiempo y voy con retraso real", "estoy cerrando algo que quedó colgado y me demoró", "se me hizo tarde por una coordinación de último minuto", "me está llevando más de lo que calculé",
+        "tuve que cambiar ruta y llego más tarde", "apareció un tema delicado y lo estoy atendiendo", "me quedé sin tiempo entre desplazamientos", "se estiró una visita imprevista",
+        "me tocó resolver algo urgente con documentos", "estoy bloqueado por un contratiempo logístico", "se alteró toda mi agenda de hoy", "necesito reacomodar porque no llego bien"
+      ],
+      "details": [],
+      "actions": [],
+      "closures": [
+        "Gracias por entender.", "Si te parece, lo movemos un poco.", "Perdón por avisar justo ahora.", "Te compenso esta.", "No quiero dejarte plantado.",
+        "Gracias por la paciencia.", "En cuanto me libere, te escribo.", "Aprecio que te adaptes.", "Gracias por bancarlo.", "Lo reorganizamos y sale mejor.",
+        "Te aviso ni bien esté libre.", "Perdón por el cambio.", "Gracias por tu flexibilidad.", "No era mi idea complicarlo.", "Quedo atento para reprogramar.",
+        "Te mando update en un rato.", "Gracias por hacerlo fácil.", "Lo retomamos apenas pueda.", "No me olvido del plan.", "Te debo una."
+      ],
+      "templatesShort": [],
+      "templatesMedium": [],
+      "templatesLong": [],
+      "absurdProblems": [],
+      "absurdDetails": [],
+      "absurdClosures": [],
+      "recipientStyle": {}
+    }
+  ],
+  "modeCategoryIds": {},
+  "globalTemplates": {},
+  "synonymBuckets": {}
+}
