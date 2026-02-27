@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "global": {},
+  "categories": [
+    {
+      "id": "late",
+      "label": "Llegada tarde",
+      "detonators": [
+        "voy con retraso:", "te aviso en camino:", "acabo de calcular y:", "se me desajustó la hora:", "el trayecto se complicó:",
+        "me pilló un atasco inesperado:", "salió mal la coordinación:", "voy más lento de lo previsto:", "justo ahora se frenó todo:", "tuve una demora fuerte:",
+        "se cruzó un contratiempo de transporte:", "te escribo para que no esperes en vacío:", "se me movió la salida:", "estoy intentando recortar tiempo:", "hubo una parada no prevista:",
+        "me cambió la ruta de golpe:", "me demoré resolviendo algo urgente:", "voy avanzando pero tarde:", "se encimaron dos retrasos:", "ya voy, pero con demora real:"
+      ],
+      "problems": [
+        "el tráfico se frenó por completo en mi ruta", "perdí una conexión y la siguiente tardó más", "salí puntual pero hubo una incidencia en el transporte", "me cambiaron el punto de recogida en el último minuto",
+        "una gestión rápida se alargó más de lo esperado", "tuve que volver por un documento importante", "la ruta habitual quedó bloqueada y tuve que desviar", "se retrasó mi salida por un trámite inesperado",
+        "se acumuló una cola larga justo antes de llegar", "el medio de transporte tuvo una parada técnica", "me tocó reorganizar una entrega antes de moverme", "hubo retraso general en la línea",
+        "me quedó una llamada urgente que no podía cortar", "la logística del trayecto falló y perdí margen", "tuve un contratiempo doméstico justo al salir", "se cayó la alternativa de transporte que tenía",
+        "hubo confusión con la dirección y perdí tiempo", "se demoró un paso previo imprescindible", "me encontré una restricción de acceso no prevista", "se me alargó una gestión de camino",
+        "una cola inesperada me dejó parado", "hubo desvíos obligatorios en todo el recorrido", "el tiempo de desplazamiento subió de golpe", "tuve una demora administrativa antes de salir",
+        "se retrasó la coordinación con quien venía conmigo", "una parada intermedia me rompió el horario", "estoy reencauzando ruta para llegar cuanto antes", "me retuvo una incidencia puntual",
+        "tuve que resolver algo urgente antes de moverme", "falló la app de transporte y perdí una opción", "la combinación que tenía prevista no salió", "surgió un bloqueo de último momento",
+        "una llamada importante me dejó sin margen", "se juntaron pequeñas demoras y se volvió grande", "me quedó un tramo más lento del esperado", "el acceso principal estaba cerrado"
+      ],
+      "details": [],
+      "actions": [],
+      "closures": [
+        "Llego en cuanto se libere esto.", "Gracias por esperar.", "Perdón por la demora.", "Voy haciendo todo para llegar cuanto antes.", "Te aviso cuando esté a minutos.",
+        "Aprecio mucho la paciencia.", "No me detengo, voy en eso.", "Gracias por comprender el retraso.", "Te actualizo en el siguiente tramo.", "Ya estoy encaminado.",
+        "No quiero hacerte perder más tiempo.", "Voy recortando minutos.", "Gracias por la flexibilidad.", "Compenso el retraso apenas llegue.", "Te escribo al estar cerca.",
+        "Perdón por el cambio de ritmo.", "Sigo en camino.", "Gracias por aguantar la espera.", "En nada te confirmo llegada.", "Voy lo más rápido que puedo."
+      ],
+      "templatesShort": [],
+      "templatesMedium": [],
+      "templatesLong": [],
+      "absurdProblems": [],
+      "absurdDetails": [],
+      "absurdClosures": [],
+      "recipientStyle": {}
+    }
+  ],
+  "modeCategoryIds": {},
+  "globalTemplates": {},
+  "synonymBuckets": {}
+}

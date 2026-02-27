@@ -1,0 +1,46 @@
+{
+  "version": 2,
+  "global": {},
+  "categories": [
+    {
+      "id": "work",
+      "label": "Trabajo",
+      "detonators": [
+        "te aviso con tiempo:", "actualización rápida:", "acaba de saltar una incidencia:", "se cruzó un bloqueo de última hora:",
+        "me entró una urgencia operativa:", "ha habido un cambio inesperado:", "me piden resolver esto ahora:", "estoy atascado con un tema crítico:",
+        "se desordenó la agenda del día:", "surgió un conflicto de horarios:", "me movieron una reunión clave:", "apareció una revisión urgente:",
+        "estoy cerrando un asunto prioritario:", "me retuvieron en una llamada larga:", "salió una tarea que no podía esperar:", "se cayó una parte del flujo:",
+        "me acaban de escalar este pendiente:", "tuve que cubrir una ausencia:", "hay un ajuste importante en curso:", "voy tarde por una contingencia laboral:"
+      ],
+      "problems": [
+        "se extendió una reunión y no puedo salir todavía", "tuve que rehacer un entregable que quedó bloqueado", "me pidieron una validación urgente antes de cerrar", "se cayó una herramienta y estoy resolviendo el impacto",
+        "entró un requerimiento crítico con plazo inmediato", "estoy cerrando un incidente que afecta a varios equipos", "me citaron a una llamada imprevista con dirección", "se duplicó mi carga por una baja de última hora",
+        "el proveedor retrasó una entrega y tuve que reorganizar todo", "aparecieron errores en producción y sigo con el seguimiento", "me retuvieron para una revisión de calidad obligatoria", "el cliente pidió cambios de última hora y estoy ajustando",
+        "hubo un cruce de dependencias y no llego al horario previsto", "estoy esperando una aprobación que lleva más tiempo de lo normal", "me tocó cubrir una guardia inesperada", "se desplazó una reunión clave justo en este tramo",
+        "estoy preparando documentación urgente para hoy", "me bloquearon acceso y sigo gestionando la recuperación", "se sumó una auditoría interna sin aviso", "la coordinación con otro equipo se demoró más de la cuenta",
+        "hubo un desfase en estimaciones y estoy cerrando pendientes", "me asignaron una incidencia compleja fuera de plan", "el cierre mensual se alargó y me dejó sin margen", "estoy resolviendo una escalación antes de desconectar",
+        "surgió una tarea crítica que requiere mi intervención ahora", "la última revisión dejó ajustes obligatorios", "me piden estar disponible en una ventana adicional", "se movieron hitos y estoy reordenando entregas",
+        "se acumuló trabajo urgente en la franja final", "necesito terminar un bloqueo técnico antes de salir", "entró una solicitud prioritaria del área legal", "estoy cerrando una corrección sensible para evitar retrasos",
+        "el comité adelantó la revisión y me agarró sin margen", "tuve que tomar una llamada externa que se prolongó", "surgió una dependencia nueva que tengo que resolver hoy", "me tocó resolver un traspaso que quedó a medias"
+      ],
+      "details": [],
+      "actions": [],
+      "closures": [
+        "Gracias por la comprensión.", "En cuanto termine, te confirmo.", "Agradezco la paciencia.", "Te mantengo al tanto.", "Perdón por el cambio de plan.",
+        "Intento resolverlo cuanto antes.", "Gracias por adaptarte.", "Te escribo apenas quede libre.", "Haré lo posible por compensarlo.", "Quedo pendiente.",
+        "Avanzo y te actualizo.", "Gracias por tu flexibilidad.", "No quiero dejarte colgado.", "Te aviso en cuanto tenga cierre.", "Gracias por entender el contexto.",
+        "Aprecio mucho tu apoyo.", "Voy a priorizar esto y luego seguimos.", "Te pido disculpas por el aviso corto.", "Gracias por esperarme.", "Seguimos en cuanto lo cierre."
+      ],
+      "templatesShort": [],
+      "templatesMedium": [],
+      "templatesLong": [],
+      "absurdProblems": [],
+      "absurdDetails": [],
+      "absurdClosures": [],
+      "recipientStyle": {}
+    }
+  ],
+  "modeCategoryIds": {},
+  "globalTemplates": {},
+  "synonymBuckets": {}
+}
